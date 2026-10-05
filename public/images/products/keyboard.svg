@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#F3F2EE"/>
+  <ellipse cx="400" cy="445" rx="260" ry="24" fill="#E5E3DC"/>
+  <rect x="160" y="210" width="480" height="210" rx="18" fill="#27272A" stroke="#3F3F46" stroke-width="3"/>
+  <rect x="176" y="226" width="448" height="178" rx="10" fill="#18181B"/>
+  <!-- Keycaps Row 1 -->
+  <g fill="#3F3F46">
+    <rect x="190" y="240" width="32" height="28" rx="4" fill="#B45309"/>
+    <rect x="228" y="240" width="28" height="28" rx="4"/>
+    <rect x="262" y="240" width="28" height="28" rx="4"/>
+    <rect x="296" y="240" width="28" height="28" rx="4"/>
+    <rect x="330" y="240" width="28" height="28" rx="4"/>
+    <rect x="364" y="240" width="28" height="28" rx="4"/>
+    <rect x="398" y="240" width="28" height="28" rx="4"/>
+    <rect x="432" y="240" width="28" height="28" rx="4"/>
+    <rect x="466" y="240" width="28" height="28" rx="4"/>
+    <rect x="500" y="240" width="28" height="28" rx="4"/>
+    <rect x="534" y="240" width="28" height="28" rx="4"/>
+    <rect x="568" y="240" width="42" height="28" rx="4" fill="#52525B"/>
+  </g>
+  <!-- Keycaps Row 2 -->
+  <g fill="#E4E4E7">
+    <rect x="190" y="274" width="44" height="28" rx="4" fill="#52525B"/>
+    <rect x="240" y="274" width="28" height="28" rx="4"/>
+    <rect x="274" y="274" width="28" height="28" rx="4"/>
+    <rect x="308" y="274" width="28" height="28" rx="4"/>
+    <rect x="342" y="274" width="28" height="28" rx="4"/>
+    <rect x="376" y="274" width="28" height="28" rx="4"/>
+    <rect x="410" y="274" width="28" height="28" rx="4"/>
+    <rect x="444" y="274" width="28" height="28" rx="4"/>
+    <rect x="478" y="274" width="28" height="28" rx="4"/>
+    <rect x="512" y="274" width="28" height="28" rx="4"/>
+    <rect x="546" y="274" width="64" height="28" rx="4" fill="#52525B"/>
+  </g>
+  <!-- Keycaps Row 3 -->
+  <g fill="#E4E4E7">
+    <rect x="190" y="308" width="54" height="28" rx="4" fill="#52525B"/>
+    <rect x="250" y="308" width="28" height="28" rx="4"/>
+    <rect x="284" y="308" width="28" height="28" rx="4"/>
+    <rect x="318" y="308" width="28" height="28" rx="4"/>
+    <rect x="352" y="308" width="28" height="28" rx="4"/>
+    <rect x="386" y="308" width="28" height="28" rx="4"/>
+    <rect x="420" y="308" width="28" height="28" rx="4"/>
+    <rect x="454" y="308" width="28" height="28" rx="4"/>
+    <rect x="488" y="308" width="28" height="28" rx="4"/>
+    <rect x="522" y="308" width="88" height="28" rx="4" fill="#B45309"/>
+  </g>
+  <!-- Keycaps Row 4 -->
+  <g fill="#E4E4E7">
+    <rect x="190" y="342" width="68" height="28" rx="4" fill="#52525B"/>
+    <rect x="264" y="342" width="28" height="28" rx="4"/>
+    <rect x="298" y="342" width="28" height="28" rx="4"/>
+    <rect x="332" y="342" width="28" height="28" rx="4"/>
+    <rect x="366" y="342" width="28" height="28" rx="4"/>
+    <rect x="400" y="342" width="28" height="28" rx="4"/>
+    <rect x="434" y="342" width="28" height="28" rx="4"/>
+    <rect x="468" y="342" width="28" height="28" rx="4"/>
+    <rect x="502" y="342" width="52" height="28" rx="4" fill="#52525B"/>
+    <rect x="560" y="342" width="50" height="28" rx="4" fill="#3F3F46"/>
+  </g>
+  <!-- Spacebar Row -->
+  <g fill="#52525B">
+    <rect x="190" y="374" width="38" height="22" rx="4"/>
+    <rect x="234" y="374" width="38" height="22" rx="4"/>
+    <rect x="278" y="374" width="38" height="22" rx="4"/>
+    <rect x="322" y="374" width="168" height="22" rx="4" fill="#D4D4D8"/>
+    <rect x="496" y="374" width="34" height="22" rx="4"/>
+    <rect x="536" y="374" width="34" height="22" rx="4"/>
+    <rect x="576" y="374" width="34" height="22" rx="4"/>
+  </g>
+</svg>

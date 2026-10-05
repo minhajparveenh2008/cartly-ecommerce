@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#F3F2EE"/>
+  <ellipse cx="400" cy="480" rx="120" ry="18" fill="#E5E3DC"/>
+  <!-- Tumbler Body -->
+  <path d="M325 170 L475 170 L460 465 C460 472 340 472 340 465 Z" fill="#27272A"/>
+  <!-- Stainless Rim -->
+  <rect x="323" y="154" width="154" height="18" rx="4" fill="#D4D4D8"/>
+  <!-- Lid -->
+  <rect x="328" y="132" width="144" height="22" rx="6" fill="#18181B"/>
+  <text x="400" y="425" text-anchor="middle" fill="#71717A" font-family="sans-serif" font-size="13" letter-spacing="3">CARTLY</text>
+</svg>

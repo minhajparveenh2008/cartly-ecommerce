@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#F3F2EE"/>
+  <ellipse cx="400" cy="470" rx="170" ry="20" fill="#E5E3DC"/>
+  <!-- Carafe Base -->
+  <path d="M310 450 L335 280 L465 280 L490 450 Z" fill="#27272A"/>
+  <!-- Wooden Collar -->
+  <rect x="330" y="270" width="140" height="32" rx="6" fill="#92400E"/>
+  <!-- Dripper Cone -->
+  <path d="M295 160 L505 160 L455 270 L345 270 Z" fill="#E4E4E7" stroke="#D4D4D8" stroke-width="3"/>
+  <!-- Dripper Handle -->
+  <path d="M495 175 C545 175 545 245 470 245" fill="none" stroke="#E4E4E7" stroke-width="14" stroke-linecap="round"/>
+</svg>

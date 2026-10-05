@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#F3F2EE"/>
+  <ellipse cx="400" cy="435" rx="220" ry="22" fill="#E5E3DC"/>
+  <rect x="210" y="250" width="380" height="160" rx="16" fill="#27272A" stroke="#3F3F46" stroke-width="3"/>
+  <rect x="224" y="264" width="352" height="132" rx="10" fill="#18181B"/>
+  <!-- Volume Dial -->
+  <circle cx="485" cy="330" r="46" fill="#3F3F46" stroke="#71717A" stroke-width="3"/>
+  <circle cx="485" cy="330" r="36" fill="#27272A"/>
+  <line x1="485" y1="298" x2="485" y2="314" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+  <!-- Ports & Indicators -->
+  <circle cx="280" cy="330" r="18" fill="#27272A" stroke="#A1A1AA" stroke-width="3"/>
+  <circle cx="280" cy="330" r="8" fill="#09090B"/>
+  <circle cx="340" cy="330" r="14" fill="#27272A" stroke="#A1A1AA" stroke-width="2.5"/>
+  <circle cx="340" cy="330" r="5" fill="#09090B"/>
+  <circle cx="395" cy="318" r="4" fill="#F59E0B"/>
+  <circle cx="395" cy="342" r="4" fill="#3F3F46"/>
+  <text x="268" y="290" fill="#71717A" font-family="monospace" font-size="12" letter-spacing="2">STUDIO DAC 32-BIT</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#F3F2EE"/>
+  <ellipse cx="400" cy="475" rx="170" ry="18" fill="#E5E3DC"/>
+  <!-- Notebook Cover -->
+  <rect x="270" y="130" width="260" height="335" rx="12" fill="#1C1917" stroke="#292524" stroke-width="3"/>
+  <!-- Spine -->
+  <rect x="270" y="130" width="24" height="335" rx="6" fill="#0C0A09"/>
+  <!-- Elastic Band -->
+  <rect x="485" y="130" width="14" height="335" fill="#44403C"/>
+  <!-- Embossed Label -->
+  <rect x="335" y="210" width="130" height="64" rx="4" fill="none" stroke="#57534E" stroke-width="1.5"/>
+  <text x="400" y="246" text-anchor="middle" fill="#A8A29E" font-family="serif" font-size="14" letter-spacing="2">NOTES 01</text>
+</svg>

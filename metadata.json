@@ -1,0 +1,6 @@
+{
+  "name": "Cartly",
+  "description": "Simple shopping. Better experience. A clean, modern full-stack e-commerce web application with product catalog, cart management, checkout, order tracking, and role-based admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
